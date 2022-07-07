@@ -1,0 +1,1 @@
+In acest proiect am incercat sa fac un site pentru Digital marketing , nu am reusit sa fac functionalitatea anumitor butoane si vreau sa o fac precum si ce-a a caruselului. Si mai am de lucrat la transformarea Html-ului in ejs si aducerea de noi functionalitatii proiectului.

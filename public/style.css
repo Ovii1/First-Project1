@@ -1,0 +1,92 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+}
+
+.links ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+.links ul li a {
+  padding: 0.6rem 0.8rem;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+}
+
+.links ul li a:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+.phone {
+  color: white;
+  text-decoration: none;
+  padding: 0.6rem 0.8rem;
+}
+/*about us code*/
+.card-img-top {
+  background-position: center;
+  background-size: cover;
+}
+
+.card-img-top:before {
+  content: '';
+  display: block;
+  padding-top: 100%;
+}
+/*about us code end*/
+
+.carousel-item {
+  background-size: cover;
+  background-position: center;
+  height: 30vw;
+}
+
+.caracteristici {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.poza-1 {
+  border: 2px solid white;
+  height: 150px;
+  border-radius: 50%;
+  width: 150px;
+}
+
+.poza-2 {
+  border: 2px solid white;
+  height: 150px;
+  border-radius: 50%;
+  width: 150px;
+}
+
+.poza-3 {
+  border: 2px solid white;
+  height: 150px;
+  border-radius: 50%;
+  width: 150px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+footer .footer-logo {
+  max-width: 150px;
+  text-align: center;
+  color: white;
+}
+form {
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
